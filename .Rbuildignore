@@ -1,0 +1,13 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+
+^doc$
+^Meta$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^.travis.yml$
+^README.Rmd$
+^README.md$
+^README_files$
+^data/.~lock.fishcolors.csv#

@@ -1,0 +1,12 @@
+language: r
+cache: packages
+
+warnings_are_errors: FALSE
+before_install:
+  - sudo apt-get update
+
+addons:
+  apt:
+    packages:
+      - libudunits2-dev
+      - libgdal-dev
